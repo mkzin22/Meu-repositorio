@@ -15,7 +15,7 @@ export default {
 		typography,
 		skeleton({
 			themes: {
-				preset: [
+				preset: [ "vintage"
 					{
 						name: 'skeleton',
 						enhancements: true,
